@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kdp-cover-template-generator",
+    "title": "KDP Paperback Cover Template Generator",
+    "category": "Cover templates",
+    "description": "Generate a free, print-ready PDF cover template with the exact spine width, bleed, and trim dimensions for your KDP paperback. Enter your page count, trim size, and paper type to download the official template.",
+    "tags": ["cover", "template", "paperback", "spine", "pdf", "print"],
+    "url": "https://kdp.amazon.com/en_US/help/topic/G202081730",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon KDP"
+  },
+  {
+    "id": "kdp-ebook-cover-guidelines",
+    "title": "KDP eBook Cover Guidelines",
+    "category": "Cover templates",
+    "description": "Official Amazon KDP cover artwork specifications for Kindle eBooks, including recommended image size (2500 x 2500 pixels), aspect ratio, file types, and color space.",
+    "tags": ["cover", "ebook", "kindle", "specs", "image", "guidelines"],
+    "url": "https://kdp.amazon.com/en_US/help/topic/G202081730",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon KDP"
+  },
+  {
+    "id": "kindle-create",
+    "title": "Kindle Create",
+    "category": "Cover templates",
+    "description": "Free official desktop app from Amazon that formats your manuscript into a polished Kindle eBook and helps you build a professional cover and interior layout.",
+    "tags": ["cover", "formatting", "ebook", "kindle", "desktop app", "interior"],
+    "url": "https://kindlecreate.amazon.com/",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon KDP"
+  },
+  {
+    "id": "kdp-book-description-help",
+    "title": "KDP Book Description (Blurb) Help",
+    "category": "Blurb writers",
+    "description": "Official KDP guidance on writing your book description, including what to include, HTML formatting options supported on Amazon, and best practices for your blurb.",
+    "tags": ["blurb", "description", "book description", "html", "formatting", "writing"],
+    "url": "https://kdp.amazon.com/en_US/help",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon KDP"
+  },
+  {
+    "id": "kdp-author-central-profile",
+    "title": "KDP Author Central Author Page",
+    "category": "Blurb writers",
+    "description": "Free official Author Central page where you can add your author bio, blog, events, and photos — a companion to your book's blurb that helps readers connect with you.",
+    "tags": ["blurb", "author bio", "author page", "profile", "marketing"],
+    "url": "https://authorcentral.amazon.com/",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon"
+  },
+  {
+    "id": "kindle-store-best-sellers",
+    "title": "Kindle Store Best Sellers Categories",
+    "category": "Category pickers",
+    "description": "Browse official Amazon Kindle Store best-seller lists by category to see where similar books sit and help you pick the right categories for your title.",
+    "tags": ["categories", "best sellers", "kindle store", "browse", "picking"],
+    "url": "https://www.amazon.com/best-sellers-books-Kindle/zgbs/digital-text",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon"
+  },
+  {
+    "id": "kdp-categories-help",
+    "title": "KDP Categories Help",
+    "category": "Category pickers",
+    "description": "Official KDP help explaining how categories work, how many you can choose, and how to pick categories that fit your book.",
+    "tags": ["categories", "choose", "help", "selection"],
+    "url": "https://kdp.amazon.com/en_US/help",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon KDP"
+  },
+  {
+    "id": "kdp-royalty-calculator",
+    "title": "KDP Royalty Calculator",
+    "category": "Royalty calculators",
+    "description": "Official KDP royalty information explaining how royalties are calculated for KDP eBooks (35% and 70% options) and paperbacks (60% royalty, minus printing costs), plus pricing guidance.",
+    "tags": ["royalty", "calculator", "pricing", "35%", "70%", "paperback", "earnings"],
+    "url": "https://kdp.amazon.com/en_US/help/topic/G202081720",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon KDP"
+  },
+  {
+    "id": "kdp-paperback-royalty-help",
+    "title": "KDP Paperback Royalty Help",
+    "category": "Royalty calculators",
+    "description": "Official KDP guidance on paperback royalties, printing costs, distribution channels, and how your earnings are calculated per marketplace.",
+    "tags": ["royalty", "paperback", "printing cost", "distribution", "earnings"],
+    "url": "https://kdp.amazon.com/en_US/help",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon KDP"
+  },
+  {
+    "id": "kindle-ebook-pricing-help",
+    "title": "Kindle eBook Pricing and Royalty Help",
+    "category": "Royalty calculators",
+    "description": "Official KDP help on Kindle eBook pricing, royalty options (35% vs 70%), delivery costs, and how to choose the right price for your book.",
+    "tags": ["royalty", "ebook", "pricing", "delivery cost", "70%", "35%"],
+    "url": "https://kdp.amazon.com/en_US/help",
+    "official": true,
+    "cost": "Free",
+    "source": "Amazon KDP"
+  }
+]
